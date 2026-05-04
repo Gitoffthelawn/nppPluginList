@@ -1216,9 +1216,9 @@
 		{
 			"folder-name": "NppTextFX",
 			"display-name": "NppTextFX2",
-			"version": "1.4.1",
-			"id": "caf6a2f3e9c54a205e744713a30b5a49baff761b1eed02906ad37a843804c9d0",
-			"repository": "https://github.com/rainman74/NPPTextFX2/releases/download/1.4.1/NppTextFX2.1.4.1.x64.zip",
+			"version": "2.0.3",
+			"id": "4382c6499decb260ff00dcf2205d74d3c0582dc411696b32b0d14e55eb0b845d",
+			"repository": "https://github.com/rainman74/NPPTextFX2/releases/download/2.0.3/NppTextFX2.2.0.3.x64.zip",
 			"description": "TextFX2 is a Notepad++ plugin which performs a variety of common conversions on selected text.",
 			"author": "Karlheinz Graf",
 			"homepage": "https://github.com/rainman74/NPPTextFX2"
