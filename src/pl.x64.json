@@ -575,10 +575,10 @@
 			"npp-compatible-versions": "[8.3,]",
 			"old-versions-compatibility": "[,0.9.11][,8.2.1]",
 			"id": "9411b2ec113c4918d0b7099f934e26120caad3a46e88756687393ccdd3791570",
-			"repository": "https://github.com/chcg/NPP_HexEdit/releases/download/0.9.14/HexEditor_0.9.14_x64.zip",
+			"repository": "https://github.com/chcg/NPP_HexEditor/releases/download/0.9.14/HexEditor_0.9.14_x64.zip",
 			"description": "Hex editor. Some reported issues, however many bugs fixed in latest release.",
 			"author": "Jens Lorenz",
-			"homepage": "https://github.com/chcg/NPP_HexEdit"
+			"homepage": "https://github.com/chcg/NPP_HexEditor"
 		},
 		{
 			"folder-name": "HLASMLexer",
